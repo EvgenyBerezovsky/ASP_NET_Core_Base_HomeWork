@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITVDN\\ASP.NET_Essential\\ASP_NET_Core_Base_HomeWork\\Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD0BA7F-7E14-4C8D-AB85-A7CFD87DC505}|ASP_NET_Core_Base_HomeWork_Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002.csproj|d:\\itvdn\\asp.net_essential\\asp_net_core_base_homework\\lesson002\\asp_net_core_base_homework_lesson002\\asp_net_core_base_homework_lesson002\\controllers\\mytestapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD0BA7F-7E14-4C8D-AB85-A7CFD87DC505}|ASP_NET_Core_Base_HomeWork_Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002.csproj|solutionrelative:asp_net_core_base_homework_lesson002\\controllers\\mytestapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD0BA7F-7E14-4C8D-AB85-A7CFD87DC505}|ASP_NET_Core_Base_HomeWork_Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002.csproj|d:\\itvdn\\asp.net_essential\\asp_net_core_base_homework\\lesson002\\asp_net_core_base_homework_lesson002\\asp_net_core_base_homework_lesson002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD0BA7F-7E14-4C8D-AB85-A7CFD87DC505}|ASP_NET_Core_Base_HomeWork_Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002.csproj|solutionrelative:asp_net_core_base_homework_lesson002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 783,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyTestApiController.cs",
+              "DocumentMoniker": "D:\\ITVDN\\ASP.NET_Essential\\ASP_NET_Core_Base_HomeWork\\Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002\\Controllers\\MyTestApiController.cs",
+              "RelativeDocumentMoniker": "ASP_NET_Core_Base_HomeWork_Lesson002\\Controllers\\MyTestApiController.cs",
+              "ToolTip": "D:\\ITVDN\\ASP.NET_Essential\\ASP_NET_Core_Base_HomeWork\\Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002\\Controllers\\MyTestApiController.cs",
+              "RelativeToolTip": "ASP_NET_Core_Base_HomeWork_Lesson002\\Controllers\\MyTestApiController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:36:40.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITVDN\\ASP.NET_Essential\\ASP_NET_Core_Base_HomeWork\\Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_NET_Core_Base_HomeWork_Lesson002\\Program.cs",
+              "ToolTip": "D:\\ITVDN\\ASP.NET_Essential\\ASP_NET_Core_Base_HomeWork\\Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002\\ASP_NET_Core_Base_HomeWork_Lesson002\\Program.cs",
+              "RelativeToolTip": "ASP_NET_Core_Base_HomeWork_Lesson002\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:28:39.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

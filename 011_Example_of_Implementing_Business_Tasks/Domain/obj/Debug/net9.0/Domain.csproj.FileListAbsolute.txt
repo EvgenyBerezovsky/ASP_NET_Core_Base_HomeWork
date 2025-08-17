@@ -1,0 +1,33 @@
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\bin\Debug\net9.0\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\bin\Debug\net9.0\Domain.pdb
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\obj\Debug\net9.0\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\obj\Debug\net9.0\Domain.pdb
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Приклад_реалізації_бізнес_задач\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\bin\Debug\net9.0\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\bin\Debug\net9.0\Domain.pdb
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\obj\Debug\net9.0\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\obj\Debug\net9.0\Domain.pdb
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011 Example of Implementing Business Tasks\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\bin\Debug\net9.0\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\bin\Debug\net9.0\Domain.pdb
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\obj\Debug\net9.0\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\obj\Debug\net9.0\Domain.pdb
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\011_Example_of_Implementing_Business_Tasks\Domain\obj\Debug\net9.0\ref\Domain.dll

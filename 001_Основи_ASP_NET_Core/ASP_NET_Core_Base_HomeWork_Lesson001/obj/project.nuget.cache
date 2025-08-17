@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FOoGpY3bbLo=",
+  "success": true,
+  "projectFilePath": "D:\\ITVDN\\ASP.NET_Essential\\ASP_NET_Core_Base_HomeWork\\ASP_NET_Core_Base_HomeWork_Lesson001\\ASP_NET_Core_Base_HomeWork_Lesson001\\ASP_NET_Core_Base_HomeWork_Lesson001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Evgen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\Evgen\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

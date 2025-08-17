@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ASP_NET_Core_Base_HomeWork_Lesson002.Controllers.MyTestApiController",
+    "Method": "GetData1",
+    "RelativePath": "MyTestApi/FirstEndpoint/{data1}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data1",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASP_NET_Core_Base_HomeWork_Lesson002.Controllers.MyTestApiController",
+    "Method": "GetData2",
+    "RelativePath": "MyTestApi/SecondEndpoint/{data2}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data2",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

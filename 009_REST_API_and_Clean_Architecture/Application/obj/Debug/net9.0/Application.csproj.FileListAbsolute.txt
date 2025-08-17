@@ -1,0 +1,15 @@
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\bin\Debug\net9.0\Application.deps.json
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\bin\Debug\net9.0\Application.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\bin\Debug\net9.0\Application.pdb
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\bin\Debug\net9.0\Domain.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\bin\Debug\net9.0\Domain.pdb
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\Application.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\refint\Application.dll
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\Application.pdb
+D:\ITVDN\ASP.NET_Essential\ASP_NET_Core_Base_HomeWork\009_REST_API_and_Clean_Architecture\Application\obj\Debug\net9.0\ref\Application.dll
